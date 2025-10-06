@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante de Programação.
+I'm a programming student focused on back-end development, with experience in .NET, HTML, CSS, JavaScript, and MySQL.
 
 
 ## 🌐 Socials:
