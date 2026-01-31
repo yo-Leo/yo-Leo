@@ -4,6 +4,12 @@
 
 Full Stack Developer at Avalicon Engenharia, experienced in system development and maintenance, data analysis and processing, UI/UX design, and project prototyping. Skilled in developing applications focused on performance, usability, and well-structured code organization. Works on creating efficient technological solutions, always aiming to align business requirements with the best possible user experience. Constantly interested in improving technical skills and keeping up with new technologies and software development best practices.
 
+<div> 
+ <a href="https://discord.com/users/745027611775860887" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://www.linkedin.com/in/leonardorruas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
 ---
 
 # Tech Stack
@@ -77,26 +83,3 @@ Full Stack Developer at Avalicon Engenharia, experienced in system development a
 
 ---
 
-#  GitHub Stats:
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=yo-Leo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=yo-Leo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
-
----
-[![](https://visitcount.itsvg.in/api?id=yo-Leo&icon=2&color=5)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
